@@ -1,0 +1,369 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" m3uautoload=1 cache=2000
+#EXTINF:-1 tvg-name="Первый_канал" tvg-logo="Первый канал" deinterlace=1 group-title="Федеральные",Первый канал
+http://stb.atel.me:8800/live/1/atel.m3u8
+#EXTINF:-1 tvg-name="Россия_1" tvg-logo="Россия 1" deinterlace=1,Россия 1
+http://stb.atel.me:8800/live/2/atel.m3u8
+#EXTINF:-1 tvg-name="Матч!" tvg-logo="Матч!" deinterlace=1,Матч ТВ
+http://stb.atel.me:8800/live/3/atel.m3u8
+#EXTINF:-1 tvg-name="НТВ" tvg-logo="НТВ" deinterlace=1,НТВ
+http://stb.atel.me:8800/live/4/atel.m3u8
+#EXTINF:-1 tvg-name="Пятый_Канал" tvg-logo="Пятый Канал " deinterlace=1,5 канал
+http://stb.atel.me:8800/live/5/atel.m3u8
+#EXTINF:-1 tvg-name="Культура" tvg-logo="Россия Культура " deinterlace=1,Россия К
+http://stb.atel.me:8800/live/6/atel.m3u8
+#EXTINF:-1 tvg-name="Россия_24" tvg-logo="Россия 24" deinterlace=1,Россия 24
+http://stb.atel.me:8800/live/7/atel.m3u8
+#EXTINF:-1 tvg-name="Карусель" tvg-logo="Карусель" deinterlace=1,Карусель
+http://stb.atel.me:8800/live/8/atel.m3u8
+#EXTINF:-1 tvg-name="ОТР" tvg-logo="ОТР" deinterlace=1,ОТР
+http://stb.atel.me:8800/live/9/atel.m3u8
+#EXTINF:-1 tvg-name="ТВЦ" tvg-logo="ТВ Центр" deinterlace=1,ТВ Центр
+http://stb.atel.me:8800/live/10/atel.m3u8
+#EXTINF:-1 tvg-name="РЕН_ТВ" tvg-logo="РЕН_ТВ" deinterlace=1,РЕН ТВ
+http://stb.atel.me:8800/live/11/atel.m3u8
+#EXTINF:-1 tvg-name="Спас ТВ" tvg-logo="Спас ТВ" deinterlace=1,Спас
+http://stb.atel.me:8800/live/12/atel.m3u8
+#EXTINF:-1 tvg-name="СТС" tvg-logo="СТС" deinterlace=1,СТС
+http://stb.atel.me:8800/live/13/atel.m3u8
+#EXTINF:-1 tvg-name="Домашний" tvg-logo="Домашний" deinterlace=1,Домашний
+http://stb.atel.me:8800/live/14/atel.m3u8
+#EXTINF:-1 tvg-name="ТВ-3" tvg-logo="ТВ-3" deinterlace=1,ТВ-3
+http://stb.atel.me:8800/live/15/atel.m3u8
+#EXTINF:-1 tvg-name="Пятница" tvg-logo="Пятница" deinterlace=1 tvg-shift=-2,Пятница
+http://stb.atel.me:8800/live/16/atel.m3u8
+#EXTINF:-1 tvg-name="Звезда" tvg-logo="Звезда" deinterlace=1,Звезда
+http://stb.atel.me:8800/live/17/atel.m3u8
+#EXTINF:-1 tvg-name="Мир" tvg-logo="Мир" deinterlace=1,Мир
+http://stb.atel.me:8800/live/18/atel.m3u8
+#EXTINF:-1 tvg-name="ТНТ" tvg-logo="ТНТ" deinterlace=1 mono=1,ТНТ
+http://stb.atel.me:8800/live/19/atel.m3u8
+#EXTINF:-1 tvg-name="МУЗ-ТВ" tvg-logo="Муз ТВ" deinterlace=1,Муз ТВ
+http://stb.atel.me:8800/live/20/atel.m3u8
+#EXTINF:-1 tvg-name="Че" tvg-logo="Че" deinterlace=1 group-title="Развлекательные",Че
+http://stb.atel.me:8800/live/30/atel.m3u8
+#EXTINF:-1 tvg-name="Телекафе" tvg-logo="Телекафе" deinterlace=1,Телекафе
+http://stb.atel.me:8800/live/39/atel.m3u8
+#EXTINF:-1 tvg-name="Сарафан_ТВ" tvg-logo="Сарафан" deinterlace=1,Сарафан
+http://stb.atel.me:8800/live/32/atel.m3u8
+#EXTINF:-1 tvg-name="СТС Love" tvg-logo="СТС Love" deinterlace=1,CTC Love
+http://stb.atel.me:8800/live/95/atel.m3u8
+#EXTINF:-1 tvg-name="Точка ТВ" tvg-logo="Точка ТВ" deinterlace=1,Точка ТВ
+http://stb.atel.me:8800/live/137/atel.m3u8
+#EXTINF:-1 tvg-name="2x2" tvg-logo="2x2" deinterlace=1,2x2
+http://stb.atel.me:8800/live/86/atel.m3u8
+#EXTINF:-1 tvg-name="ТНТ4" tvg-logo="ТНТ4" deinterlace=1,ТНТ4
+http://stb.atel.me:8800/live/61/atel.m3u8
+#EXTINF:-1 tvg-name="Lifenews" tvg-logo="Lifenews" deinterlace=1,Морской
+http://stb.atel.me:8800/live/77/atel.m3u8
+#EXTINF:-1 tvg-name="Ю" tvg-logo="Ю" deinterlace=1,Ю-ТВ
+http://stb.atel.me:8800/live/28/atel.m3u8
+#EXTINF:-1 tvg-name="BRIDGE_TV_Русский_Хит" tvg-logo="Rusong TV" deinterlace=0 group-title="Музыкальные",BRIDGE TV Русский Хит
+http://stb.atel.me:8800/live/60/atel.m3u8
+#EXTINF:-1 tvg-name="Ля-минор_ТВ" tvg-logo="Ля Минор" deinterlace=1,Ля Минор
+http://stb.atel.me:8800/live/81/atel.m3u8
+#EXTINF:-1 tvg-name="RU_TV" tvg-logo="RU.TV" deinterlace=1,RU TV
+http://stb.atel.me:8800/live/91/atel.m3u8
+#EXTINF:-1 tvg-name="Шансон_ТВ" tvg-logo="Шансон" deinterlace=1,Шансон
+http://stb.atel.me:8800/live/53/atel.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="Европа Плюс ТВ" deinterlace=1,Europa Plus TV
+http://stb.atel.me:8800/live/90/atel.m3u8
+#EXTINF:-1 tvg-name="Музыка_Первого" tvg-logo="Музыка Первого" deinterlace=1,Музыка Первого
+http://stb.atel.me:8800/live/89/atel.m3u8
+#EXTINF:-1 tvg-name="BRIDGE_TV_Dance" tvg-logo="DANGE TV" deinterlace=1,Dange TV
+http://stb.atel.me:8800/live/138/atel.m3u8
+#EXTINF:-1 tvg-name="Мульт" tvg-logo="Мульт" deinterlace=1 group-title="Детские",Мульт
+http://stb.atel.me:8800/live/43/atel.m3u8
+#EXTINF:-1 tvg-name="Рыжий" tvg-logo="Рыжий" deinterlace=1,Рыжий
+http://stb.atel.me:8800/live/23/atel.m3u8
+#EXTINF:-1 tvg-name="Мультимания" tvg-logo="Мультимания" deinterlace=1,Мультимания
+http://stb.atel.me:8800/live/46/atel.m3u8
+#EXTINF:-1 tvg-name="Детский" tvg-logo="Детский" deinterlace=1,Уникум
+http://stb.atel.me:8800/live/47/atel.m3u8
+#EXTINF:-1 tvg-name="Disney" tvg-logo="Disney" deinterlace=1,Дисней
+http://stb.atel.me:8800/live/29/atel.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Малыш ТВ
+http://stb.atel.me:8800/live/40/atel.m3u8
+#EXTINF:-1 tvg-name="Мультимузыка" tvg-logo="Мультимузыка" deinterlace=1,Мультимузыка
+http://stb.atel.me:8800/live/96/atel.m3u8
+#EXTINF:-1 tvg-name="Дом_Кино" tvg-logo="Дом Кино" deinterlace=1 group-title="Кино",Дом Кино
+http://stb.atel.me:8800/live/24/atel.m3u8
+#EXTINF:-1 tvg-name="КИНОСЕРИЯ" tvg-logo="Много ТВ" deinterlace=1,Киносерия
+http://stb.atel.me:8800/live/22/atel.m3u8
+#EXTINF:-1 tvg-name="Иллюзион__" tvg-logo="Иллюзион+" deinterlace=1,Иллюзион
+http://stb.atel.me:8800/live/49/atel.m3u8
+#EXTINF:-1 tvg-name="Русский_Иллюзион" tvg-logo="Русский иллюзион" deinterlace=1,Русский иллюзион
+http://stb.atel.me:8800/live/48/atel.m3u8
+#EXTINF:-1 tvg-name="Русский_Роман" tvg-logo="Русский Роман" deinterlace=1,Русский Роман
+http://stb.atel.me:8800/live/31/atel.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Кино ТВ
+http://stb.atel.me:8800/live/87/atel.m3u8
+#EXTINF:-1 tvg-name="Кинокомедия" tvg-logo="Кинокомедия" deinterlace=1,Кинокомедия
+http://stb.atel.me:8800/live/79/atel.m3u8
+#EXTINF:-1 tvg-name="Еврокино" tvg-logo="Еврокино" deinterlace=1,Еврокино
+http://stb.atel.me:8800/live/51/atel.m3u8
+#EXTINF:-1 tvg-name="Комедия" tvg-logo="Комедия" deinterlace=1,Комедия
+http://stb.atel.me:8800/live/54/atel.m3u8
+#EXTINF:-1 tvg-name="Настоящее_Страшное_Телевидение" tvg-logo="НСТВ" deinterlace=1,НСТ
+http://stb.atel.me:8800/live/59/atel.m3u8
+#EXTINF:-1 tvg-name="Индийское_кино" tvg-logo="Индийское кино" deinterlace=1,Индийское кино
+http://stb.atel.me:8800/live/80/atel.m3u8
+#EXTINF:-1 tvg-name="Феникс_Кино" tvg-logo="Фениск+Кино" deinterlace=1,Феникс+Кино
+http://stb.atel.me:8800/live/37/atel.m3u8
+#EXTINF:-1 tvg-name="Кинопоказ" tvg-logo="Кинопока" deinterlace=1,Кинопоказ
+http://stb.atel.me:8800/live/78/atel.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Родное Кино
+http://stb.atel.me:8800/live/92/atel.m3u8
+#EXTINF:-1 tvg-name="Русский детектив" tvg-logo="Русский детектив" deinterlace=1,Русский детектив
+http://stb.atel.me:8800/live/88/atel.m3u8
+#EXTINF:-1 tvg-name="Eurosport_1" tvg-logo="Eurosport" deinterlace=1 group-title="Спорт",Евроспорт
+http://stb.atel.me:8800/live/33/atel.m3u8
+#EXTINF:-1 tvg-name="Матч!_Боец" tvg-logo="Боец ТВ" deinterlace=1,Боец
+http://stb.atel.me:8800/live/83/atel.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="Eurosport 2" deinterlace=1,Евроспорт 2
+http://stb.atel.me:8800/live/34/atel.m3u8
+#EXTINF:-1 tvg-name="КХЛ" tvg-logo="КХЛ-ТВ" deinterlace=1,КХЛ
+http://stb.atel.me:8800/live/35/atel.m3u8
+#EXTINF:-1 tvg-name="Матч! Арена" tvg-logo="Матч! Арена" deinterlace=1,Матч! Арена
+http://stb.atel.me:8800/live/36/atel.m3u8
+#EXTINF:-1 tvg-name="Матч! Игра" tvg-logo="Матч! Игра" deinterlace=1,Матч! Игра
+http://stb.atel.me:8800/live/41/atel.m3u8
+#EXTINF:-1 tvg-name="Охотник_и_Рыболов" tvg-logo="Охотник и Рыболов" deinterlace=1 group-title="Познавательные",Охотник и Рыболов
+http://stb.atel.me:8800/live/75/atel.m3u8
+#EXTINF:-1 tvg-name="24_Техно" tvg-logo="24 Техно" deinterlace=1,24 Техно
+http://stb.atel.me:8800/live/58/atel.m3u8
+#EXTINF:-1 tvg-name="Телепутешествия" tvg-logo="Телепутешествия" deinterlace=1,Телепутешествие
+http://stb.atel.me:8800/live/25/atel.m3u8
+#EXTINF:-1 tvg-name="Моя_планета" tvg-logo="Моя планета" deinterlace=1,Моя планета
+http://stb.atel.me:8800/live/44/atel.m3u8
+#EXTINF:-1 tvg-name="Живая_планета" tvg-logo="Живая планета" deinterlace=1,Живая планета
+http://stb.atel.me:8800/live/55/atel.m3u8
+#EXTINF:-1 tvg-name="Домашние_животные" tvg-logo="Домашние животные" deinterlace=1,Домашние животные
+http://stb.atel.me:8800/live/26/atel.m3u8
+#EXTINF:-1 tvg-name="Драйв ТВ" tvg-logo="Драйв ТВ" deinterlace=1,Драйв
+http://stb.atel.me:8800/live/56/atel.m3u8
+#EXTINF:-1 tvg-name="Кухня_ТВ" tvg-logo="Кухня ТВ" deinterlace=0,Кухня ТВ
+http://stb.atel.me:8800/live/82/atel.m3u8
+#EXTINF:-1 tvg-name="Оружие" tvg-logo="Оружие" deinterlace=1,Оружие
+http://stb.atel.me:8800/live/27/atel.m3u8
+#EXTINF:-1 tvg-name="Авто Плюс" tvg-logo="Авто Плюс" deinterlace=1,Авто Плюс
+http://stb.atel.me:8800/live/84/atel.m3u8
+#EXTINF:-1 tvg-name="Здоровое_Телевидение" tvg-logo="Здоровое ТВ" deinterlace=1,Здоровое ТВ
+http://stb.atel.me:8800/live/57/atel.m3u8
+#EXTINF:-1 tvg-name="Охота_и_Рыбалка" tvg-logo="Охота и Рыбалка" deinterlace=1,Охота и Рыбалка
+http://stb.atel.me:8800/live/64/atel.m3u8
+#EXTINF:-1 tvg-name="Russian_Travel_Guide_(RTG_TV)" tvg-logo="Russian Travel Guide" deinterlace=1,RTG
+http://stb.atel.me:8800/live/52/atel.m3u8
+#EXTINF:-1 tvg-name="Наука_2_0" tvg-logo="Наука 2.0" deinterlace=1,Наука 2.0
+http://stb.atel.me:8800/live/42/atel.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Усадьба
+http://stb.atel.me:8800/live/65/atel.m3u8
+#EXTINF:-1 tvg-name="Зоо_ТВ" tvg-logo="Зоо TV" deinterlace=1,Зоо ТВ
+http://stb.atel.me:8800/live/68/atel.m3u8
+#EXTINF:-1 tvg-name="История" tvg-logo="История" deinterlace=1,История
+http://stb.atel.me:8800/live/99/atel.m3u8
+#EXTINF:-1 tvg-name="Психология_21" tvg-logo="Психология 21" deinterlace=1,Психология 21
+http://stb.atel.me:8800/live/140/atel.m3u8
+#EXTINF:-1 tvg-name="Zooпарк" tvg-logo="Zooпарк" deinterlace=1,Zooпарк
+http://stb.atel.me:8800/live/50/atel.m3u8
+#EXTINF:-1 tvg-name="Бобер" tvg-logo="Бобёр" deinterlace=1,Бобер
+http://stb.atel.me:8800/live/146/atel.m3u8
+#EXTINF:-1 tvg-name="Первый_HD" tvg-logo="Первый Канал HD" deinterlace=1 group-title="HD",Первый HD
+http://stb.atel.me:8800/live/111/atel.m3u8
+#EXTINF:-1 tvg-name="Россия_HD" tvg-logo="Россия HD" deinterlace=1,Россия HD
+http://stb.atel.me:8800/live/112/atel.m3u8
+#EXTINF:-1 tvg-name="Русский_Экстрим" tvg-logo="Русский ЭКСТРИМ" deinterlace=1,Русский экстрим HD
+http://stb.atel.me:8800/live/141/atel.m3u8
+#EXTINF:-1 tvg-name="1_Ярославский HD" tvg-logo="1 Ярославский" deinterlace=1,Первый Ярославский HD
+http://stb.atel.me:8800/live/21/atel.m3u8
+#EXTINF:-1 tvg-name="Союз" tvg-logo="Союз" deinterlace=1 group-title="Разное",Союз
+http://stb.atel.me:8800/live/98/atel.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Р-40 ОРТ
+http://stb.atel.me:8800/live/124/atel.m3u8
+#EXTINF:-1 tvg-name="РБК" tvg-logo="РБК" deinterlace=1,РБК
+http://stb.atel.me:8800/live/45/atel.m3u8
+#EXTINF:-1 tvg-name="Ювелирочка" tvg-logo="Ювелирочка" deinterlace=1,Ювелирочка
+http://stb.atel.me:8800/live/145/atel.m3u8
+#EXTINF:-1 tvg-name="Беларусь 24" tvg-logo="Беларусь 24" deinterlace=1,Беларусь 24
+http://stb.atel.me:8800/live/67/atel.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1 group-title="Камера",Ател ТВ
+http://stb.atel.me:8800/live/123/atel.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0 group-title="Рок",Nashe Radio
+http://radio.rybnet.ru:8000/nashe
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,Radio ULTRA
+http://radio.rybnet.ru:8000/ultra
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,M2 Rock
+http://radio.rybnet.ru:8000/m2rock
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,Novoe chistoe radio
+http://radio.rybnet.ru:8000/nu-clear
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,ROCK FM
+http://radio.rybnet.ru:8000/rockfm
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,Zaycev Net Alternative
+http://radio.rybnet.ru:8000/zaycevalt
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,Radio Gothic
+http://radio.rybnet.ru:8000/web-gothic
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,Vox Noctem
+ http://radio.rybnet.ru:8000/voxnoctem
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,EBM Radio
+http://radio.rybnet.ru:8000/ebmradio
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0 group-title="Электронная музыка",Piratskaya stanciya
+http://radio.rybnet.ru:8000/piratstation
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,DeepMix Moscow Radio
+http://radio.rybnet.ru:8000/dmmr
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,AH.FM
+http://radio.rybnet.ru:8000/ahfm
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,KISS FM
+http://radio.rybnet.ru:8000/kissfm
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,8bit FM
+http://radio.rybnet.ru:8000/8bitfm
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,Radio Record
+http://radio.rybnet.ru:8000/record
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,Transmissiya
+http://radio.rybnet.ru:8000/trancemission
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,EBM Radio
+http://radio.rybnet.ru:8000/ebmradio
+#EXTINF:-1 tvg-name="None" tvg-logo="None" deinterlace=0,UKBASS
+http://radio.rybnet.ru:8000/ukbass
+#EXTINF:-1 tvg-name="None" tvg-logo="None" deinterlace=0,dnbradio 
+http://radio.rybnet.ru:8000/dnbradio
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,Garage FM
+http://radio.rybnet.ru:8000/garagefm192
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Zaycev.NET Electronic
+http://radio.rybnet.ru:8000/zaycevelectronic
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Megapolis FM
+http://radio.rybnet.ru:8000/megapolisfmonline
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,M2 Club
+http://radio.rybnet.ru:8000/m2club
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Zaycev.NET Disco
+http://radio.rybnet.ru:8000/zaycevdisco
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Dark DnB
+http://radio.atel.me:8000/dnbradio
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0 group-title="Hip-Hop",DEFJAY
+http://radio.rybnet.ru:8000/defjay
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,MY RADIO: Blues
+http://radio.rybnet.ru:8000/myblues.ogg
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,MY RADIO: Russian Rap
+http://radio.rybnet.ru:8000/russianrap.ogg
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,M2 Hip-Hop
+ http://radio.rybnet.ru:8000/m2hiphop
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0 group-title="Популярные радиостанции",HumorFM
+http://radio.rybnet.ru:8000/humorfm
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,NRJ
+http://radio.rybnet.ru:8000/nrj
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,M2 Classic
+http://radio.rybnet.ru:8000/m2classic
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,MY RADIO: Blues
+http://radio.rybnet.ru:8000/myblues.ogg
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,Hitroe radio
+http://radio.rybnet.ru:8000/hitroe
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,Radio Vanya
+http://radio.rybnet.ru:8000/radiovanya
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,Transmissiya
+http://radio.rybnet.ru:8000/trancemission
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,Radio Record
+http://radio.rybnet.ru:8000/record
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,M2 Caliente
+http://radio.rybnet.ru:8000/m2caliente
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,Relax FM
+http://radio.rybnet.ru:8000/relaxfm
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,Zaycev Net POP
+http://radio.rybnet.ru:8000/zaycevpop
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,Silver Rain
+http://radio.rybnet.ru:8000/silverrain
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Радио 7
+http://radio.rybnet.ru:8000/radio7
+#EXTINF:-1 tvg-name="None" tvg-logo="None" deinterlace=0,Monte Carlo
+http://radio.rybnet.ru:8000/montecarlo
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,Zaycev Net Alternative
+http://radio.rybnet.ru:8000/zaycevalt
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,Radio Shanson
+http://radio.rybnet.ru:8000/shanson
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,Russkoe Radio
+http://radio.rybnet.ru:8000/russianradio
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Love Radio
+http://radio.rybnet.ru:8000/loveradio
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Европа Плюс
+http://radio.rybnet.ru:8000/europaplus
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,KISS FM
+http://radio.rybnet.ru:8000/kissfm
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,M2 Hit
+http://radio.rybnet.ru:8000/m2hit
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,M2 Club
+http://radio.rybnet.ru:8000/m2club
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,M2 Funk
+http://radio.rybnet.ru:8000/m2funk
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,M2 Rock
+http://radio.rybnet.ru:8000/m2rock
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,M2 90s
+http://radio.rybnet.ru:8000/m290
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,M2 80s
+http://radio.rybnet.ru:8000/m280
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Ретро ФМ
+http://radio.rybnet.ru:8000/radioretro
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Детское радио
+http://radio.rybnet.ru:8000/detifm
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Авторадио
+http://radio.rybnet.ru:8000/avtoradio
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Zaycev.NET Electronic
+http://radio.rybnet.ru:8000/zaycevelectronic
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Zaycev.NET Disco
+http://radio.rybnet.ru:8000/zaycevdisco
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Best FM
+http://radio.rybnet.ru:8000/bestfm
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Дорожное радио
+http://radio.rybnet.ru:8000/dorojnoe
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Радио Культура
+http://radio.rybnet.ru:8000/kulturafm
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,M2 Hip-Hop
+ http://radio.rybnet.ru:8000/m2hiphop
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,M2 Love
+ http://radio.rybnet.ru:8000/m2love
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Monte Carlo Rostov
+http://radio.rybnet.ru:8000/montecarlo_rostov
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Радио МИР
+http://radio.rybnet.ru:8000/radiomir
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Radio Chocolate
+http://radio.rybnet.ru:8000/chocolatefm
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Comedy Radio
+http://radio.atel.me:8000/comedyradio
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Радио Романтика
+http://radio.rybnet.ru:8000/radioromantika
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,MyRadio: Disco 80s
+http://radio.atel.me:8000/Disco80s.ogg
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,MyRadio: Hits 90s
+http://radio.atel.me:8000/Hits90s.ogg
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,MyRadio: Ethnos
+http://radio.atel.me:8000/sheshory.ogg
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,DFM
+http://radio.atel.me:8000/dfm
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0 group-title="Классическая музыка",M2 Classic
+http://radio.rybnet.ru:8000/m2classic
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Радио Classic
+http://radio.rybnet.ru:8000/radioclassic
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,Радио Орфей
+http://radio.rybnet.ru:8000/orfey
+#EXTINF:-1 tvg-name="None" tvg-logo="None" deinterlace=0 group-title="Информационные радиостанции",Радио Комсомольская правда
+http://radio.rybnet.ru:8000/kp 
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0,Радио России
+http://radio.rybnet.ru:8000/radiorussia
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Радио Спорт
+http://radio.rybnet.ru:8000/sport
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Радио Маяк
+http://radio.rybnet.ru:8000/mayak
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Говорит Москва
+http://radio.rybnet.ru:8000/moscowtalk
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Вести FM
+http://radio.rybnet.ru:8000/vestifm
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0 group-title="Релакс",Relax FM
+http://radio.rybnet.ru:8000/relaxfm
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,M2 Chillout
+http://radio.rybnet.ru:8000/m2chillout
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,SmoothLounge Radio
+http://radio.rybnet.ru:8000/smoothlounge_256 
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0 group-title="Jazz/Blues",M2 Jazz
+http://radio.rybnet.ru:8000/m2jazz
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,Радио Jazz
+http://radio.rybnet.ru:8000/radiojazz
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=1,MyRadio: Jazz
+http://radio.atel.me:8000/Jazz.ogg
+#EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0 group-title="Reggae",M2 Sunshine
+http://radio.rybnet.ru:8000/m2sunshine
