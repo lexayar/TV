@@ -5,8 +5,6 @@ http://stb.atel.me:8800/live/1/atel.m3u8
 http://stb.atel.me:8800/live/2/atel.m3u8
 #EXTINF:-1 tvg-name="Матч!" tvg-logo="Матч!" deinterlace=1 group-title="Федеральные",Матч ТВ
 http://stb.atel.me:8800/live/3/atel.m3u8
-#EXTINF:-1 tvg-name="Матч!" tvg-logo="Матч!" deinterlace=1 group-title="Спорт",Матч ТВ
-http://stb.atel.me:8800/live/3/atel.m3u8
 #EXTINF:-1 tvg-name="НТВ" tvg-logo="НТВ" deinterlace=1 group-title="Федеральные",НТВ
 http://stb.atel.me:8800/live/4/atel.m3u8
 #EXTINF:-1 tvg-name="Пятый_Канал" tvg-logo="Пятый Канал " deinterlace=1 group-title="Федеральные",5 канал
@@ -369,3 +367,7 @@ http://radio.rybnet.ru:8000/radiojazz
 http://radio.atel.me:8000/Jazz.ogg
 #EXTINF:-1 tvg-name="" tvg-logo="" deinterlace=0 group-title="Reggae",M2 Sunshine
 http://radio.rybnet.ru:8000/m2sunshine
+#EXTINF:-1 tvg-name="Матч!" tvg-logo="Матч!" deinterlace=1 group-title="Спорт",Матч ТВ
+http://stb.atel.me:8800/live/3/atel.m3u8
+#EXTINF:-1 tvg-name="Карусель" tvg-logo="Карусель" deinterlace=1 group-title="Детские",Карусель
+http://stb.atel.me:8800/live/8/atel.m3u8
