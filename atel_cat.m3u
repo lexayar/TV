@@ -3,7 +3,9 @@
 http://stb.atel.me:8800/live/1/atel.m3u8
 #EXTINF:-1 tvg-name="Россия_1" tvg-logo="Россия 1" deinterlace=1 group-title="Федеральные",Россия 1
 http://stb.atel.me:8800/live/2/atel.m3u8
-#EXTINF:-1 tvg-name="Матч!" tvg-logo="Матч!" deinterlace=1 group-title="Федеральные;Спорт",Матч ТВ
+#EXTINF:-1 tvg-name="Матч!" tvg-logo="Матч!" deinterlace=1 group-title="Федеральные",Матч ТВ
+http://stb.atel.me:8800/live/3/atel.m3u8
+#EXTINF:-1 tvg-name="Матч!" tvg-logo="Матч!" deinterlace=1 group-title="Спорт",Матч ТВ
 http://stb.atel.me:8800/live/3/atel.m3u8
 #EXTINF:-1 tvg-name="НТВ" tvg-logo="НТВ" deinterlace=1 group-title="Федеральные",НТВ
 http://stb.atel.me:8800/live/4/atel.m3u8
